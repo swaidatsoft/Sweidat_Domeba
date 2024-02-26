@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TrialRepository.Core
-build_property.ProjectDir = C:\Users\swaid\OneDrive\Desktop\ProjectRepository\trial\trial.Core\
+build_property.ProjectDir = C:\Users\swaid\OneDrive\Desktop\Trial_Project\trial\trial.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
